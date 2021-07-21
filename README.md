@@ -1,4 +1,4 @@
-# agenda-springboot
+# Agenda Spring Boot
 Versão da agenda de contato com Spring Boot e React.js
 
 # Executando a agenda
