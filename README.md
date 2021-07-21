@@ -29,3 +29,20 @@ Agora acesse o [navegador](http://localhost:8080/api/pessoas)
 Deve aparecer no console a seguinte saída
 
 ![Saida](/images/output.jpg)
+
+## Com front-end react
+
+Com front-end inicializado 
+```
+cd react/
+npm start
+```
+
+Acesse o  [navegador](http://localhost:3000/pessoas)
+
+Você deve ver uma tela semelhante a tela abaixo
+
+![Saida](/images/output2.jpg)
+
+Em seguida basta clicar em "Adicionar contato" e preencher o formulário.
+
